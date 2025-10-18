@@ -1,0 +1,9 @@
+staff_id,staff_code,first_name,last_name,role,email,specialization
+1,STF001,Bikash,Adhikari,Head Coach,headcoach@club.org,Basketball
+2,STF002,Laxmi,Tamang,Assistant Coach,asstcoach@club.org,Soccer
+3,STF003,Pradeep,Thapa,Physiotherapist,physio@club.org,Musculoskeletal
+4,STF004,Sujata,Karki,Team Doctor,doctor@club.org,Sports Medicine
+5,STF005,Deepak,Rai,Nutritionist,nutrition@club.org,Sports Nutrition
+6,STF006,Manisha,Gurung,Goalkeeping Coach,gkcoach@club.org,Soccer
+7,STF007,Sagar,KC,Strength Coach,strength@club.org,Conditioning
+8,STF008,Anu,Shrestha,Rehab Specialist,rehab@club.org,Rehabilitation

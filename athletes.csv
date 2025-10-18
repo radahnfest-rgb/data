@@ -1,0 +1,11 @@
+athlete_id,athlete_code,first_name,last_name,dob,gender,sport,team,position,height_cm,weight_kg,status
+1,ATH001,Aarav,Sharma,2015-12-27,M,Basketball,Lions,Guard,161,72,Active
+2,ATH002,Maya,Gurung,2017-12-26,F,Basketball,Lions,Forward,168,61,Recovery
+3,ATH003,Prakash,Thapa,2022-12-25,M,Soccer,Tigers,Midfielder,165,92,Active
+4,ATH004,Sita,Magar,2014-12-27,F,Soccer,Tigers,Defender,161,60,Active
+5,ATH005,Rohan,Bista,2017-12-26,M,Athletics,Falcons,Sprinter,192,93,Active
+6,ATH006,Nisha,Rana,2022-12-25,F,Volleyball,Wolves,Setter,172,89,Injured
+7,ATH007,Kiran,KC,2017-12-26,M,Cricket,Eagles,Batsman,188,92,Injured
+8,ATH008,Puja,Lama,2014-12-27,F,Rugby,Rhinos,Wing,170,82,Injured
+9,ATH009,Sanjay,Adhikari,2018-12-26,M,Tennis,Aces,Singles,169,68,Injured
+10,ATH010,Anita,Tamang,2015-12-27,F,Swimming,Sharks,Freestyle,165,79,Active

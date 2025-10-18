@@ -1,0 +1,7 @@
+device_id,device_code,model,firmware_version,last_sync,assigned_athlete_id,assigned_date,retired_date
+1,DEV001,Polar H10,4.5.2,2025-01-16T16:00:00,1,2025-01-10,
+2,DEV002,Garmin HRM-Pro,4.5.0,2025-01-18T00:00:00,2,2025-01-10,
+3,DEV003,Whoop Strap 4,4.5.0,2025-01-14T06:00:00,3,2025-01-10,
+4,DEV004,Apple Watch S9,4.4.2,2025-01-16T22:00:00,4,2025-01-10,
+5,DEV005,Fitbit Sense 2,4.6.2,2025-01-16T09:00:00,5,2025-01-10,
+6,DEV006,Oura Ring 3,4.4.0,2025-01-10T17:00:00,6,2025-01-10,
